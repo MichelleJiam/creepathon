@@ -4,7 +4,7 @@ The Creep-a-thon is a hackathon organised by [Codam](https://www.codam.nl/en/) a
 ### The Challenge
 Using publicly-available [Venmo transaction data](https://github.com/sa7mon/venmo-data), present a story centering on data privacy using data analysis and visualisation.
 ### The Team
-This is a collaborative project between [Sanne Albreghs](https://github.com/salbregh), [Turlough Mullan](https://github.com/tstelfox), and Nick Gerrets.
+This is a collaborative project between [Sanne Albreghs](https://github.com/salbregh), [Turlough Mullan](https://github.com/tstelfox), Nick Gerrets, and Michelle Jiam.
 
 Together we are Team Crêperie.
 ### The Vision
