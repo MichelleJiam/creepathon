@@ -11,8 +11,8 @@ Together we are Team Crêperie.
 Venmo’s public API lets anyone scrap information from user transactions who have their privacy settings on public. Seeing the privacy setting is public by default, the majority of Venmo users probably doesn’t even know this information is out there for anyone to see. With our program we wan’t to show how easy it is retrieve information about a person through only their transactions, friends they send money to and the notes added to this transaction. And that this could even lead to identity theft.
 
 
-Follow the following instruction to download the Venmo Transaction Dataset through MongoDB: https://github.com/sa7mon/venmo-data
 
 ## Usage
+Follow the following instruction to download the Venmo Transaction Dataset through MongoDB: https://github.com/sa7mon/venmo-data
 To run - “bash run.sh”
 You will then be prompted to enter a name to search the database for all occurrences of payments made by people of that name which will be displayed in your terminal.
