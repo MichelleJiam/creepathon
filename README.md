@@ -17,3 +17,6 @@ Follow the following instruction to download the Venmo Transaction Dataset throu
 
 To run - “bash run.sh”
 You will then be prompted to enter a name to search the database for all occurrences of payments made by people of that name which will be displayed in your terminal.
+
+![screenshot]
+(https://github.com/MichelleJiam/creepathon/blob/main/carbon.png)
