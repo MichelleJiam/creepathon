@@ -14,5 +14,6 @@ Venmo’s public API lets anyone scrap information from user transactions who ha
 
 ## Usage
 Follow the following instruction to download the Venmo Transaction Dataset through MongoDB: https://github.com/sa7mon/venmo-data
+
 To run - “bash run.sh”
 You will then be prompted to enter a name to search the database for all occurrences of payments made by people of that name which will be displayed in your terminal.
